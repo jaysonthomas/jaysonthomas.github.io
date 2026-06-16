@@ -3,11 +3,6 @@
 <!--ts-->
 
 - [al-folio](#al-folio)
-  - [User community](#user-community)
-  - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
-    - [Desktop](#desktop)
-    - [Mobile](#mobile)
-  - [Table Of Contents](#table-of-contents)
   - [Getting started](#getting-started)
   - [Installing and Deploying](#installing-and-deploying)
   - [Customizing](#customizing)
